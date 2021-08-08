@@ -1,0 +1,17 @@
+h1{
+    color:rgba(250, 177, 114, 0.932);
+}
+body{
+    background-color: paleturquoise;
+}
+li{
+    list-style: none;
+    list-style:none;
+    padding:20px 30px 20px 30px;
+}
+ul{ 
+    display:flex;
+}
+.header{
+  background-color:white;  
+}
